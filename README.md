@@ -21,3 +21,12 @@
 	- Git commits
 	- Every day documentation
 	- Validator check
+	
+
+DAY-1
+i have learn some basics of python by doing smile programming exersises by watching 
+https://youtu.be/_uQrJ0TkZlc this tutorial
+
+DAY-2
+at day-2 trying some examples in getting input from the user and also doing type coversation 
+in this type conversation by giving input() command we get out put from the user by watching this tutorial https://youtu.be/_uQrJ0TkZlc 
