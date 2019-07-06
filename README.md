@@ -30,3 +30,6 @@ https://youtu.be/_uQrJ0TkZlc this tutorial
 DAY-2
 at day-2 trying some examples in getting input from the user and also doing type coversation 
 in this type conversation by giving input() command we get out put from the user by watching this tutorial https://youtu.be/_uQrJ0TkZlc 
+
+Day-3
+in day three i've learnt, how to use strings in python ?now i done one simple programm bye using three strings(""").in python grammar is very important,by watching this tutorial https://youtu.be/_uQrJ0TkZlc
