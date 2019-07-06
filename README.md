@@ -35,4 +35,4 @@ Day-3
 in day-3 i've learnt, how to use strings in python ?now i done one simple programm bye using three strings(""").in python grammar is very important,by watching this tutorial https://youtu.be/_uQrJ0TkZlc
 
 Day-4
-at day-4 i've learn,what are called'Formatted strings','Length' len is an built in function &'upper&Lower case'.by using this tutorialhttps://youtu.be/_uQrJ0TkZlc
+at day-4 i've learn,what are called'Formatted strings','Length' len is an built in function &'upper&Lower case'.by using this tutorial https://youtu.be/_uQrJ0TkZl
